@@ -1,3 +1,6 @@
 [submodule "esp32_serial"]
 	path = esp32_serial
 	url = https://github.com/CharlesXu1124/esp32_serial
+[submodule "MedBotViz"]
+	path = MedBotViz
+	url = git@github.com:megatran/MedBotViz.git
