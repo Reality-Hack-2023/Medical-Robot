@@ -4,3 +4,7 @@
 [submodule "MedBotViz"]
 	path = MedBotViz
 	url = git@github.com:megatran/MedBotViz.git
+[submodule "doctor-esp32"]
+	path = doctor-esp32
+	url = https://github.com/jedpimentel/doctor-esp32
+	branch = hackathon
